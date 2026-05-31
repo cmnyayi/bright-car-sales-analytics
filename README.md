@@ -75,7 +75,7 @@ Sales performance varies across regions and time periods.
 Certain vehicle categories contribute significantly to profitability.
 Seasonal trends influence customer purchasing behavior.
 
-#Recommendations
+# Recommendations
 Focus on high-performing vehicle categories.
 Improve marketing in underperforming regions.
 Leverage seasonal sales opportunities.
